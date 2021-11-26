@@ -1,5 +1,3 @@
-# Robbie Culkin
-
 ## About me
 I'm a software engineer and data scientist. I've lectured at SCU as an adjunct, and really enjoy teaching.
 
