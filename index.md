@@ -9,4 +9,4 @@ Topics I find especially interesting:
 ## About this site
 Personal sites are often extended resumes. For that info, you can check my [LinkedIn](https://www.linkedin.com/in/robbie-culkin/).
 
-Instead, I plan to use this site as a personal catalog for my projects \& CS-related thoughts.
+Instead, I plan to use this site as a personal catalog for my projects & CS-related thoughts.
