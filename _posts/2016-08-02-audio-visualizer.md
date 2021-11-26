@@ -1,7 +1,3 @@
-layout: page
-title: "Audio Visualizer"
-date: 2016-08-02
-
 # Audio Visualizer
 [GitHub repo](https://github.com/robbieculkin/RGB-LED-Audio-Visualizer)
 
@@ -15,10 +11,7 @@ date: 2016-08-02
 ## Materials<a name="materials"></a> 
 * Arduino Mega
 * Solderless Breadboard w/ power rails
-* Sparkfun Spectrum Shield (2 MSGEQ7s on a shield) This board is occasionally backordered. If that's the case, your best options are to  
-     * buy the MSGEQ7 & audio jacks separately & hook them up yourself
-     * Piote Wave: Arduino Uno + MSGEQ7s all-in-one
-     * do the FFT on some other computer and connect to Arduino via serial communications
+* Sparkfun Spectrum Shield (2 MSGEQ7s on a shield)
 * Adafruit NeoPixel White 60 LED strip - 3 meters
 * Toggle Switch x2
 * 5V 10A Power Supply (you can get away with a much lower amperage supply, but you might get some color inaccuracies)
