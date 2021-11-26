@@ -1,6 +1,8 @@
-# Home
-## Posts
-* [2016/08/02 Audio Visualizer](https://robbieculkin.github.io/2016/08/02/audio-visualizer.html)
+---
+nav_order: 4
+---
+
+# About
 
 ## About me
 I'm a software engineer and data scientist. I've lectured at SCU as an adjunct, and really enjoy teaching.
