@@ -1,3 +1,4 @@
+# Home
 ## Posts
 * [2016/08/02 Audio Visualizer](https://robbieculkin.github.io/2016/08/02/audio-visualizer.html)
 
