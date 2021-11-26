@@ -1,7 +1,3 @@
----
-nav_order: 4
----
-
 # Audio Visualizer
 [GitHub repo](https://github.com/robbieculkin/RGB-LED-Audio-Visualizer)
 
