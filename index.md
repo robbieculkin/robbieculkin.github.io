@@ -18,5 +18,5 @@ In my free time I enjoy
  - teaching at SCU
 
 ## About this site
-Personal sites are often extended resumes. For that info, you can check my [LinkedIn](https://www.linkedin.com/in/robbie-culkin/).
-Instead, I plan to use this site as a personal catalog for things I find interesting.
+Personal sites are often extended resumes. Instead, I plan to use this site as a personal catalog for things I find interesting. For professional info, you can check my [LinkedIn](https://www.linkedin.com/in/robbie-culkin/).
+
