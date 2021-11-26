@@ -5,7 +5,7 @@ I'm a software engineer and data scientist. I've lectured at SCU as an adjunct, 
 
 Topics I find especially interesting:
 - natural language processing
-- embeddings
+- SVD-built & deep learned embeddings
 - functional programming
 
 ## About this site
