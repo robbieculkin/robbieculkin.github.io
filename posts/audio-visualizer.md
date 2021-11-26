@@ -2,11 +2,17 @@
 {: .no_toc }
 [GitHub repo](https://github.com/robbieculkin/RGB-LED-Audio-Visualizer)
 
-## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it2vcdtha2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
+
+## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it2vcdtha2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Materials
 * Arduino Mega
