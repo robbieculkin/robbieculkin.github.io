@@ -11,7 +11,6 @@
 {:toc}
 </details>
 
-## Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/it2vcdtha2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Materials
@@ -44,4 +43,3 @@ I used 2 male-male 3.5mm cables that plug directly into the Sparkfun Spectrum Sh
 [GitHub repo](https://github.com/robbieculkin/RGB-LED-Audio-Visualizer)
 
 The bulk of my time was spent tweaking animations. I started with a stuttered, basic animation that I slowly fine-tuned over the course of my freshman winter term at SCU. 
-
