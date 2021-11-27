@@ -5,7 +5,7 @@ nav_order: 1
 # About
 
 ## About me
-For work, I'm a software engineer and data scientist.
+At work, I'm a software engineer and data scientist.
 
 Topics I find especially interesting:
 - natural language processing
