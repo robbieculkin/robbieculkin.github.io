@@ -1,6 +1,16 @@
 # LED Structures
+{: .no_toc }
 
-After making the first [audio visualizer](https://robbieculkin.github.io/posts/audio-visualizer.html), I started experimenting with new ways to cast light. I had access to a laser cutter at SCU, so I acrylic was a great option.
+After making the first [audio visualizer](https://robbieculkin.github.io/posts/audio-visualizer.html), I started experimenting with new ways to cast light. I had access to a laser cutter at SCU, so I made structures from laser-cut clear acrylic.
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Small tower
 I made this one in my dorm room. Many lessons learned! 
